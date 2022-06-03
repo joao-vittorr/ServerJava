@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TecBlog - O seu Blog de tecnologia</title>
+<Style>
+    *{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Helvetica', 'sans-serif';
+    background: #e6e6e6;
+}
+
+/* Layout pag */
+
+#area-cabecalho{
+    background-color: #f7b600;
+    padding: 15px;
+    text-align: center;
+}
+
+#area-logo, #area-menu{
+    padding: 15px;
+}
+
+#area-principal{
+    width: 920px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+#area-postagem{
+    width: 660px;
+    float: left;
+}
+
+#area-lateral{
+    width: 240px;
+    float: right;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.conteudo-lateral{
+    background: #FFF;
+    padding: 10px;
+    margin: 10px;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    background: #ccc;
+    padding: 15px;
+}
+
+ /*formatação do menu*/
+
+a{
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #f7b600;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#area-cabecalho a:link, #area-cabecalho a:visited{
+    color: #FFF;
+}
+
+#area-cabecalho a:hover{
+    background: #FFF;
+    color: #f7b600;
+    text-decoration: none;
+}
+
+/*Formatação em geral*/
+h1{
+    font-size: 3em;
+    color: #4e4e4e;
+}
+
+h2{
+    color: #f7b600;
+}
+
+h3{
+    color: #565656;
+    background: #ccc;
+    padding: 5px;
+}
+
+.branco{
+    color: #FFF;
+}
+
+.data-postagem{
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.texto-lateral{
+    font-size: 0.8em;
+    padding: 5px;
+}
+</Style>
+</head>
+<body>
+
+    <div id="area-cabecalho">
+        <div id="area-logo">
+            <h1>Tec<span class="branco">Blog</span></h1>
+        </div>
+        <div id="area-menu">
+            <a href="index.html">Home</a>
+            <a href="jogos.html">Jogos</a>
+            <a href="celulares.html">Celulares</a>
+            <a href="informatica.html">Informática</a>
+            <a href="eletronicos.html">Eletrônicos</a>
+        </div>
+    </div>
+
+    <div id="area-principal">
+        <div id="area-postagem">
+            <div class="postagem">
+                <h2>Tituço da postagem 1</h2>
+                <span class="data-postagem">postado em 20 março 2022</span>
+                <img width="620px" src="imgs/imagem1.jpg" alt="">
+                <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt. Reprehenderit pariatur tempor consequat cupidatat.
+                    Labore excepteur pariatur cupidatat aliquip ipsum irure fugiat velit ullamco.</p>
+                <a href="#">Leia mais</a>
+            </div>
+            <div class="postagem">
+                <h2>Tituço da postagem 2</h2>
+                <span class="data-postagem">postado em 20 março 2022</span>
+                <img width="620px" src="imgs/imagem2.jpg" alt="">
+                <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt. Reprehenderit pariatur tempor consequat cupidatat.
+                    Labore excepteur pariatur cupidatat aliquip ipsum irure fugiat velit ullamco.</p>
+                <a href="#">Leia mais</a>
+            </div>
+            <div class="postagem">
+                <h2>Tituço da postagem 3</h2>
+                <span class="data-postagem">postado em 20 março 2022</span>
+                <img width="620px" src="imgs/imagem3.jpg" alt="">
+                <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt. Reprehenderit pariatur tempor consequat cupidatat.
+                    Labore excepteur pariatur cupidatat aliquip ipsum irure fugiat velit ullamco.</p>
+                <a href="#">Leia mais</a>
+            </div>
+            <div class="postagem">
+                <h2>Tituço da postagem 4</h2>
+                <span class="data-postagem">postado em 20 março 2022</span>
+                <img width="620px" src="imgs/imagem4.jpg" alt="">
+                <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt. Reprehenderit pariatur tempor consequat cupidatat.
+                    Labore excepteur pariatur cupidatat aliquip ipsum irure fugiat velit ullamco.</p>
+                <a href="#">Leia mais</a>
+            </div>
+            <div class="postagem">
+                <h2>Tituço da postagem 5</h2>
+                <span class="data-postagem">postado em 20 março 2022</span>
+                <img width="620px" src="imgs/imagem5.jpg" alt="">
+                <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt. Reprehenderit pariatur tempor consequat cupidatat.
+                    Labore excepteur pariatur cupidatat aliquip ipsum irure fugiat velit ullamco.</p>
+                <a href="#">Leia mais</a>
+            </div>
+        </div>
+        <div id="area-lateral">
+            <div class="conteudo-lateral">
+                <h3>Postagens recentes</h3>
+                <div class="texto-lateral">
+                    <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt.</p>
+                    <a href="#">Leia mais</a>
+                </div>
+                <hr>
+                <div class="texto-lateral">
+                    <p>Minim sit reprehenderit sunt et exercitation ut aliqua labore sunt.</p>
+                    <a href="#">Leia mais</a>
+                </div>
+            </div>
+            <div class="conteudo-lateral">
+                <h3>Categorias</h3>
+                <a href="jogos.html">Jogos</a><br>
+                <a href="celulares.html">Celulares</a><br>
+                <a href="informatica.html">Informática</a><br>
+                <a href="eletronicos.html">Eletrônicos</a><br>
+            </div>
+        </div>
+        <div id="rodape">
+            
+        </div>
+    </div>
+    
+</body>
+</html>

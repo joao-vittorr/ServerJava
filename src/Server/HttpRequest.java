@@ -107,7 +107,7 @@ import java.util.*;
 				linhaStatus = "HTTP/1.0 401 Unauthorized" + CRLF;
 				linhaContentType = "WWW-Authenticate: Basic realm=\"RESTRITO\""+
 				CRLF;
-				msgHtml = "<HTML><HEAD><TITLE> Acesso Nao Autorizado " +
+				msgHtml = "<HTML><HEAD><TITLE> Acesso Nao Autorizado	 " +
 				"</TITLE></HEAD>" +
 				"<BODY> Acesso Nao Autorizado </BODY></HTML>";
 				existeArq = false;
