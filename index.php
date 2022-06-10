@@ -7,11 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-
-<?php
+<h1><?php
 
 echo "oi";    
-?>  
+?> </h1>      
+ 
 </body>
 </html>
 

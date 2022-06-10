@@ -2,6 +2,9 @@ package Server;
 
 import java.io.*;
 import java.net.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -91,7 +94,14 @@ final class HttpRequest implements Runnable {
 			// Enviar uma linha em branco para indicar o fim das linhas de
 			// cabeçalho
 			dos.writeBytes(CRLF);
-			dos.writeBytes("oi");
+	        
+	        BufferedReader br1 = new BufferedReader(new		 
+	        FileReader("index.php"));
+	        String linha = br1.readLine();
+	        dos.writeBytes(linha);
+	        br1.close();	
+	        
+	        
 		} else {
 
 			// Abre o arquivo requisitado
@@ -218,7 +228,6 @@ final class HttpRequest implements Runnable {
 			String cmd = "C:\\xampp\\php\\php index.php";
 			pro = run.exec(cmd);
 			read = new BufferedReader(new InputStreamReader(pro.getInputStream()));
-
 			String line;
 			while ((line = read.readLine()) != null) {
 				System.out.println(line); //uma unica string ou rigth byte
