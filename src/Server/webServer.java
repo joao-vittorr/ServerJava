@@ -24,7 +24,7 @@ public class webServer {
 			HttpRequest requisicao = new HttpRequest(socketCli);
 			// Criado um novo thread para processar as novas
 			// requisicões
-			Thread thread = new Thread(requisicao);
+			Thread thread = new Thread(requisicao); 	
 			// Inicia o thread.
 			thread.start();
 		}
