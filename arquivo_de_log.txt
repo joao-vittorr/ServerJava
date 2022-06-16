@@ -1,0 +1,511 @@
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:20:17 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 354
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:20:18 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost/index.php
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 167
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:23:18 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 354
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:23:20 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 354
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:23:39 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.html HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 51
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Mon Jun 13 23:24:14 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php/?5 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 157
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 09:46:53 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?5 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 203
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 09:46:53 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /favicon.ico HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost/index.php?5
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 167
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 09:48:07 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?5 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 217
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 09:48:55 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?5 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 202
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 09:55:36 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?5 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 333
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:02:23 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?1 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:02:28 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?2 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:02:32 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:02:58 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?4 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:03:02 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?25 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:03:55 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?1 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 49
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:04:02 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?2 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 49
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:04:14 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?3 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 49
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:06:33 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?2 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 199
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:06:43 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?2 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 363
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:07:05 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?1 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
+------------------------------------------------------
+Data de Requisicao: Thu Jun 16 10:07:09 BRT 2022 GMT 
+ENDEREÇO DE ORIGEM:PORTA: /[0:0:0:0:0:0:0:1]:80
+Conteúdo Requisitado: GET /index.php?6 HTTP/1.1
+Host: localhost
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="102", "Google Chrome";v="102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+Quantidade de bytes transmitidos: 80
+------------------------------------------------------
+
